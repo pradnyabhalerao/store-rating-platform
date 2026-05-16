@@ -3,41 +3,31 @@
 A full-stack role-based Store Rating Platform built using **ReactJS, Node.js, ExpressJS, and MySQL**.  
 This system enables users to register, browse stores, submit ratings (1–5), and manage accounts with secure authentication and role-based access control.
 
----
-
-## 🚀 Features
-
-### 🔐 Authentication & Authorization
+**Features**
+###  Authentication & Authorization
 - JWT-based secure login system
 - Role-based access control (Admin, User, Store Owner)
 - Password encryption using bcrypt
 
----
-
-### 👨‍💼 Admin Module
+###  Admin Module
 - Add, update, and manage users and stores
 - View dashboard analytics (users, stores, ratings)
 - Filter and sort data efficiently
 - Monitor platform activity
 
----
-
-### 👤 User Module
+###  User Module
 - User registration and login
 - Browse and search available stores
 - Submit and update ratings (1–5)
 - Update profile and password
 
----
-
-### 🏪 Store Owner Module
+###  Store Owner Module
 - View users who rated their store
 - Check average store rating
 - Manage account settings
 
----
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 - ReactJS
@@ -53,9 +43,7 @@ This system enables users to register, browse stores, submit ratings (1–5), an
 ### Database
 - MySQL
 
----
-
-## 📁 Project Architecture
+## Project Architecture
 /client → React Frontend
 /server → Express Backend
 ├── controllers
@@ -66,11 +54,9 @@ This system enables users to register, browse stores, submit ratings (1–5), an
 └── utils
 
 
----
+##  Installation & Setup
 
-## ⚙️ Installation & Setup
-
-### 1️⃣ Clone the Repository
+### 1️ Clone the Repository
 ```bash
 git clone https://github.com/your-username/store-rating-platform.git
 cd store-rating-platform
