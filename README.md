@@ -1,4 +1,4 @@
-# 🏬 Store Rating Platform
+#  Store Rating Platform
 
 A full-stack role-based Store Rating Platform built using **ReactJS, Node.js, ExpressJS, and MySQL**.  
 This system enables users to register, browse stores, submit ratings (1–5), and manage accounts with secure authentication and role-based access control.
