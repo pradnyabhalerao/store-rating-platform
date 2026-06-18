@@ -58,5 +58,5 @@ This system enables users to register, browse stores, submit ratings (1–5), an
 
 ### 1️ Clone the Repository
 ```bash
-git clone https://github.com/your-username/store-rating-platform.git
+git clone https://github.com/pradnyabhalerao/store-rating-platform.git
 cd store-rating-platform
